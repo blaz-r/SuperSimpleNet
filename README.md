@@ -129,3 +129,7 @@ We also include the performance results from the paper inside `paper_results`.
   year={2024}
 }
 ```
+
+## Acknowledgement
+
+Thanks to [SimpleNet](https://github.com/DonaldRR/SimpleNet) for great inspiration.
