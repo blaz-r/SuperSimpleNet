@@ -121,11 +121,11 @@ We also include the performance results from the paper inside `paper_results`.
 
 ## Citation
 
-```
-@article{rolih2024supersimplenet,
-  title={SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection},
+```bibtex
+@InProceedings{rolih2024supersimplenet,
   author={Rolih, Bla{\v{z}} and Fu{\v{c}}ka, Matic and Sko{\v{c}}aj, Danijel},
-  journal={arXiv preprint arXiv:2408.03143},
+  booktitle={International Conference on Pattern Recognition}, 
+  title={{S}uper{S}imple{N}et: {U}nifying {U}nsupervised and {S}upervised {L}earning for {F}ast and {R}eliable {S}urface {D}efect {D}etection},
   year={2024}
 }
 ```
