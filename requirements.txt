@@ -1,6 +1,7 @@
 tqdm
 numpy==1.26.0
 anomalib==0.7
+albumentations==2.0.8
 
 # optional
 #wandb

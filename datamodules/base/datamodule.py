@@ -64,7 +64,7 @@ class SSNDataModule(LightningDataModule, ABC):
             )
 
         base_transforms = [
-            A.Resize(height=image_size[0], width=image_size[1], always_apply=True)
+            A.Resize(height=image_size[0], width=image_size[1])
         ]
 
         # add normalize transform
